@@ -1,4 +1,4 @@
-Here is the revised version with the phrase **Sales Performance** centered on the page:
+
 
 ---
 
