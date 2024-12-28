@@ -1,7 +1,9 @@
+Here is the revised version with the phrase **Sales Performance** centered on the page:
 
 ---
-###** Sales Performance **  
-  
+
+###                      **Sales Performance**  
+ 
 
 ---
 
@@ -123,5 +125,6 @@ The Sales Performance Dashboard consists of four interactive pages:
 Each page is designed to provide interactive and tailored insights to meet specific business needs.  
 
 ---  
+
 
 
