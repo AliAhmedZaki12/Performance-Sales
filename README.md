@@ -1,9 +1,6 @@
 
-                                                                                                   (Sales Performance)    
+                                                                                           Sales Performance   
 
-
-
-Purpose
 
 The primary purpose of this project is to analyze sales performance data to provide valuable insights into customer behavior, sales trends, and profitability. This interactive dashboard, built using Power BI, showcases a detailed and visually appealing report that highlights critical business metrics for strategic decision-making.
 
