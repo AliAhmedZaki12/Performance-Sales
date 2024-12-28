@@ -1,9 +1,5 @@
+### **Sales Performance**  
 
-
----
-
-###                      **Sales Performance**  
- 
 
 ---
 
@@ -123,8 +119,5 @@ The Sales Performance Dashboard consists of four interactive pages:
 4. **Quantity:** Analysis of product quantities sold and shipping costs.  
 
 Each page is designed to provide interactive and tailored insights to meet specific business needs.  
-
----  
-
 
 
